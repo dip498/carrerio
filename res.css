@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px) {
+    .baner {
+    margin-top: 34px;
+    width: 67%;
+    height: 560px;
+    background-color: #ffffffa1;
+    text-align: center;
+}
+.cardmain{
+    flex-direction: column;
+}
+.word{
+    width: 190px;
+}
+.containvideo{
+    width: 90%;
+}
+iframe{
+    width: 100%;
+}
+.cardpart{
+    flex-direction: column;
+    margin: 0%;
+}
+}
